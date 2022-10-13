@@ -1,9 +1,23 @@
 {
   "title": "Super Smash Bros. SP",
-  "image": "smashbros.iso"
+  "description": "Punch and slam your opponents into the ground in this fast paced 2D battle game! Based off of Super Smash Bros. Melee, this game will not give you any breaks!",
+  "images": {
+    "xtensawin": "smashbros-xtensawin.iso",
+    "thumb2": "smashbros-thumb2.iso"
+  },
+  "graphic_big": "smashbros_img_big.bin",
+  "graphic_small": "smashbros_img_small.bin",
   "gen": 1,
   "min_rev": 0,
-  "size": 0,
-  "sig": "err_img_not_signed",
-  "rating": 1
+  "min_firmware": 212,
+  "tdb_entry": "fighting/ver"
+  "size": {
+    "xtensawin": 22,
+    "thumb2": 22
+  },
+  "sig": {
+    "xtensawin": "no_sig",
+    "thumb2": "no_sig"
+  },
+  "rating": 2
 }
