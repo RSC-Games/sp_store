@@ -1,5 +1,5 @@
-Action, /images/action.csv
-Arcade, /images/arcade.csv
-Fighting, /images/fighting.csv
-Platformer, /images/platformer.csv
-Racing, /images/racing.csv
+Action, images/action.csv
+Arcade, images/arcade.csv
+Fighting, images/fighting.csv
+Platformer, images/platformer.csv
+Racing, images/racing.csv
